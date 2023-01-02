@@ -4,4 +4,4 @@ background in 🏠 architecture and 🎶 music production.
 
 ## Languages and Tools
 
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+#### ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
