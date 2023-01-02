@@ -1,4 +1,4 @@
-## Hi there, I am Rosanne! 👩🏼‍💻
+## hi there, my name is rosanne! 👩🏼‍💻
 I am a Junior Front-end Web Developer, a passionate builder with a 
 background in 🏠 architecture and 🎶 music production.
 
