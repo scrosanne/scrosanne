@@ -2,7 +2,7 @@
 I am a Junior Front-end Web Developer, a passionate builder with a 
 background in 🏠 architecture and 🎶 music production.
 
-🌱 currently learning TypeScript and Next.js
+🌱 currently learning TypeScript and Next.js <br/>
 ✉️ https://www.linkedin.com/in/scrosanne/
 
 ---
