@@ -1,5 +1,5 @@
 ## Hi there, I´m Rosanne! 👩🏼‍💻
-I am a Junior Full Stack Web Developer, a passionate builder with a 
+I am a Full Stack Web Developer, a passionate builder with a 
 background in 🏠 architecture and 🎶 music production.
 
 ---
